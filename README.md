@@ -7,7 +7,7 @@ Prepared by: José Gabriel M. da Cruz
 
 METADATA
 
-| Abbreviation       | Variable (AdaptaBrasil)       | Description (AdaptaBrasil platform)                                                                                                                                       |
+| Abbreviation       | Variable       | Description (AdaptaBrasil platform)                                                                                                                                       |
 | ------------------ | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **DRO-HS**         | seca_rischidro                | Climate change impact risk on socio-ecological systems, considering the climate threat of drought (water security dimension).                               |
 | **DRO-FS**         | seca_segali                   | Climate change impact risk on socio-ecological systems, considering the climate threat of drought (food security dimension).                                |
