@@ -1,5 +1,9 @@
-# Master Project
- This repository contains data used to analyze the impact of climate change on the well-being of Indigenous and Afro-descendant communities living on traditional lands. The analysis focuses on the interplay between climate-related risks, land use perspectives, and their socio-environmental effects. Organized by José Gabriel M. da Cruz.
+# Climate Change Impacts on Indigenous and Afro-descendant Lands (Master Project)
+
+This repository contains data and analysis related to the impact of climate change on the well-being of Indigenous and Afro-descendant communities living on traditional lands in Brazil.  
+The analysis explores the interactions between climate-related risks, land use, and socio-environmental outcomes.  
+
+Prepared by: José Gabriel M. da Cruz
 
 #Metadata
 | Abbreviation       | Variable (AdaptaBrasil)       | Description                                                                                                                                       |
