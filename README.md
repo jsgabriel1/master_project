@@ -5,7 +5,8 @@ The analysis explores the interactions between climate-related risks, land use, 
 
 Prepared by: José Gabriel M. da Cruz
 
-#Metadata
+METADATA
+
 | Abbreviation       | Variable (AdaptaBrasil)       | Description                                                                                                                                       |
 | ------------------ | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **DRO-HS**         | seca_rischidro                | Climate change impact risk on socio-ecological systems, considering the climate threat of drought (water security dimension).                               |
